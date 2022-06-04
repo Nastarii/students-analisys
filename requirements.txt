@@ -1,0 +1,16 @@
+#              Project informations
+# ==============================================
+#
+#   This project was created using Python 3.7
+#
+#   https://www.python.org/
+#
+#   Pip tool to install the requires packages
+#
+#   https://pypi.org/project/pip/
+#
+#   Also it's necessary the packages:
+#
+#   Pandas 1.4.2     'pip install pandas'
+#   Numpy 1.22.4     'pip install numpy'
+#   Matplotlib 3.5.2 'pip install matplotlib'
